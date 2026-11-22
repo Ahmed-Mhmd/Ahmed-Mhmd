@@ -1,17 +1,28 @@
+<p align="center"> <img src="assets/header.svg" width="100%" alt="Ahmed Mohamed, Flutter Developer"> </p>
+<p align="center"><sub>WHAT I WORK WITH</sub></p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5F33E1,100:242A32&height=200&section=header&text=Ahmed%20Mohamed&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Flutter%20Developer%20%7C%20Turning%20ideas%20into%20mobile%20apps&descSize=18&descAlignY=56" width="100%" alt="Ahmed Mohamed - Flutter Developer">
+  <a href="#-tech-stack"><img src="assets/badge-flutter.svg" width="24%" alt="Flutter and Dart"></a>
+  <a href="#-tech-stack"><img src="assets/badge-bloc.svg" width="24%" alt="BLoC state management"></a>
+  <a href="#-tech-stack"><img src="assets/badge-firebase.svg" width="24%" alt="Firebase"></a>
+  <a href="#-about-me"><img src="assets/badge-uni.svg" width="24%" alt="Benha University"></a>
+  <br>
+  <a href="#-featured-projects"><img src="assets/badge-apps.svg" width="24%" alt="Two apps"></a>
+  <a href="#-featured-projects"><img src="assets/badge-api.svg" width="24%" alt="REST APIs"></a>
+  <a href="#-about-me"><img src="assets/badge-cloud.svg" width="24%" alt="AWS Cloud"></a>
+  <a href="#-about-me"><img src="assets/badge-goal.svg" width="24%" alt="Open to internships"></a>
 </p>
-
+<p align="center"><sub>JUMP TO</sub></p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Ahmed+Mohamed+Moustafa+%F0%9F%91%8B;Flutter+%26+Dart+developer;4th-year+%40+Computers+%26+AI%2C+Benha+University;Always+building%2C+always+learning" alt="Hi, I'm Ahmed Mohamed Moustafa - Flutter and Dart developer"></a>
+  <a href="#-featured-projects"><img src="assets/badge-nav-work.svg" width="32%" alt="Work"></a>
+  <a href="#-tech-stack"><img src="assets/badge-nav-stack.svg" width="32%" alt="Stack"></a>
+  <a href="#-github-in-numbers"><img src="assets/badge-nav-stats.svg" width="32%" alt="Stats"></a>
 </p>
-
 <p align="center"><sub>GET IN TOUCH</sub></p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-mohammed-b5a636343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:aaboelnor743@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
-  <a href="https://github.com/Ahmed-Mhmd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:aaboelnor743@gmail.com"><img src="assets/badge-gmail.svg" width="32%" alt="Email me"></a>
+  <a href="https://www.linkedin.com/in/ahmed-mohammed-b5a636343"><img src="assets/badge-linkedin.svg" width="32%" alt="LinkedIn"></a>
 </p>
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 👨‍💻 About me
 
@@ -19,6 +30,8 @@
 - 📱 I build mobile apps with **Flutter & Dart** - clean architecture, BLoC state management, and Firebase backends
 - ☁️ Currently exploring: **AWS Cloud**, **Python/Flask**, and embedded systems with **Arduino**
 - 🎯 Goal: keep growing as a mobile engineer and ship apps people actually rely on
+
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🚀 Featured projects
 
@@ -31,6 +44,8 @@
 | --- | --- | --- |
 | [**Movie**](https://github.com/Ahmed-Mhmd/Movie) | Movie browser powered by the TMDB API - popular, upcoming and top-rated lists, search, details, and a local watch list | Flutter, BLoC, get_it + injectable (DI), Hive, REST APIs |
 | [**Tasky**](https://github.com/Ahmed-Mhmd/Tasky-APP) | Task manager with priorities and a calendar view | Flutter, Firebase Auth, Cloud Firestore, table_calendar |
+
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🧰 Tech stack
 
@@ -45,6 +60,8 @@
   <img src="https://img.shields.io/badge/Cloud%20Firestore-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Cloud Firestore">
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" alt="REST APIs">
 </p>
+
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 📊 GitHub in numbers
 
